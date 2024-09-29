@@ -1,0 +1,5 @@
+Are the letters shown by the person consecutive in the alphabet?
+What letter is likely to be shown next?
+Which statement contains a reference to the first object shown by the person in the video?
+Which statement contains a reference to the second distinct object shown by the person in the video?
+Which statement contains a reference to the third distinct object shown by the person in the video?

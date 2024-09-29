@@ -1,0 +1,8 @@
+If the person tried to turn on the electric device and it was not working, what was the reason for that?
+If the person tried to turn on the lighting device and it was not working, what was the reason for that?
+Is the bag empty at the end?
+The person interacts with a lighting device among other objects. Is the lighting device on at any point?
+The person interacts with a lighting device, among other objects. Is the lighting device connected to electricity at any point during the video?
+The person interacts with an electric device among other objects. Is the electric device on at any point?
+The person interacts with an electric device, among other objects. Is the electric device connected to electricity at any point during the video?
+What can you say about the temperature of the water being poured?

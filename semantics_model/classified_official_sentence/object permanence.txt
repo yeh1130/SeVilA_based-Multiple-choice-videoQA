@@ -1,0 +1,3 @@
+The person plays an occlusion game with an occluder object and a small occluded object. What happened to the small occluded object while it was occluded?
+The person uses multiple similar objects to play an occlusion game. Where is the hidden object at the end of the game from the person's point of view?
+Was the hidden object moved while being occluded?

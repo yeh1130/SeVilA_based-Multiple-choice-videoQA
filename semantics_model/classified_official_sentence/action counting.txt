@@ -1,0 +1,9 @@
+How many buttons did you see the person buttoning up?
+How many buttons did you see the person successfully buttoning up and correctly aligning the buttons with the holes?
+How many containers did the person try to cover?
+How many times did the person launch objects on the table?
+How many times did the person launch the object on the slanted plane?
+How many times did the person show objects to the camera?
+The person makes sets of repeated actions. How many distinct repeated actions did the person do?
+The person makes sets of repeated actions. How many times did the person repeat the action in the first set?
+The person makes sets of repeated actions. How many times did the person repeat the action in the last set?

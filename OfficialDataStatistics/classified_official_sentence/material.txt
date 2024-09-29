@@ -1,0 +1,2 @@
+The objects that the person interacts with, are they transparent or not?
+The person uses multiple similar objects to play an occlusion game. Are these objects transparent?

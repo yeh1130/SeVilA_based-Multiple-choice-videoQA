@@ -1,0 +1,8 @@
+Did the person match correctly the containers with the covers?
+Did the person place all the containers facing upwards or downwards?
+How many containers did the person incorrectly match with covers?
+How many times did the brightness change in the scene as a direct result of turning on or off a lighting device?
+Is the paper lined or plain?
+Was the first cup placed facing upwards or downwards?
+Which containers were not matched with the correct covers in the order in which the person attempted to cover them?
+Why can't the box be closed at the end?

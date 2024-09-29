@@ -1,0 +1,3 @@
+How many distinct objects did the person show?
+Which statement contains a reference to the second distinct object shown by the person in the video?
+Which statement contains a reference to the third distinct object shown by the person in the video?

@@ -1,0 +1,2 @@
+How many objects were in the bag at the beginning?
+If we assume that the amount of water in the two containers in which the person poured first is equal, how much water is in the container in which the person poured last compared to that amount?

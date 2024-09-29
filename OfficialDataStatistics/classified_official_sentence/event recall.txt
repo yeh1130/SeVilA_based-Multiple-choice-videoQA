@@ -1,0 +1,2 @@
+How many objects did the person put initially inside the region indicated by the person with the hand?
+How many objects did the person put initially outside the region indicated by the person with the hand?

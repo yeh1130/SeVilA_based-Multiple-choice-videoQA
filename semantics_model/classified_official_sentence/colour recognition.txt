@@ -1,0 +1,2 @@
+What colour is the card with the distinct colour?
+What is the colour of the majority of the cards with which the person interacts?

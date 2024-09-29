@@ -1,0 +1,34 @@
+motion: 60.94%
+place recognition: 97.67%
+action counting: 42.92%
+spatial relations: 50.98%
+object recognition: 61.30%
+action recognition: 68.31%
+distractor action: 90.39%
+distractor object: 83.46%
+state recognition: 63.23%
+object counting: 50.40%
+change detection: 32.03%
+sequencing: 50.43%
+task completion: 50.56%
+adversarial action: 50.17%
+collision: 75.00%
+object attributes: 55.06%
+pattern breaking: 34.86%
+feature matching: 66.28%
+pattern discovery: 42.69%
+part recognition: 71.60%
+material: 88.02%
+event recall: 42.86%
+containment: 50.67%
+occlusion: 43.60%
+solidity: 45.39%
+object permanence: 43.60%
+colour recognition: 41.67%
+conservation: 63.22%
+quantity: 55.88%
+event counting: 61.21%
+language: 32.51%
+visual discrimination: 33.48%
+general knowledge: 41.37%
+stability: 44.00%

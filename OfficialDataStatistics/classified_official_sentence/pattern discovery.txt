@@ -1,0 +1,6 @@
+At the end, which object might the person hit next?
+What is the colour of the majority of the cards with which the person interacts?
+What letter is likely to be shown next?
+What might the person do next?
+What shape is the person likely to show next?
+Will the next cup be placed facing upwards or downwards?

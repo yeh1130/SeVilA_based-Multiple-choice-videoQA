@@ -1,0 +1,1 @@
+Is the configuration of objects likely to be stable after placing the last object?

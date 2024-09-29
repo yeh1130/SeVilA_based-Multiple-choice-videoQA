@@ -1,0 +1,4 @@
+Which of the following statements describes the scene better?
+Which statement contains a reference to the first object shown by the person in the video?
+Which statement contains a reference to the second distinct object shown by the person in the video?
+Which statement contains a reference to the third distinct object shown by the person in the video?

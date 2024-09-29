@@ -1,0 +1,4 @@
+In which hand does the person conceal a small object or a drawn sign?
+Is there something unusual about the shoes or socks of the person?
+The objects that the person interacts with, do they have handles or not?
+The person uses multiple similar objects to play an occlusion game. Do these objects have handles?

@@ -1,0 +1,9 @@
+Are the geometric shapes put on the table the same as those drawn on the paper, regardless of the order?
+Are the letters on the table in the same order at the beginning of the video as the letters written on the computer?
+Are the letters on the table in the same order at the end of the video as the letters written on the computer?
+Do the letters put on the table match the letters written on the paper?
+Is the number of written letters equal to the number of letters put on the table?
+Is the order of the written letters the same as the order of the letters put on the table?
+Is there something unusual about the shoes or socks of the person?
+The person uses multiple similar objects to play an occlusion game. Are these objects identical?
+Which letters from the ones the person puts on the table have the same colour?
